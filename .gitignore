@@ -1,0 +1,4 @@
+# Ignore all ZIP files
+*.zip
+/AICDA-PHP-deploy/
+/AICDA-PHP-local/
